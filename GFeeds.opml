@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Subscriptions</title>
+  </head>
+  <body>
+    <outline type="rss" title="! Sofá Gospel" text="Cristianismo, Tecnologia, Poesia e Humor..." xmlUrl="https://sofagospel.blogspot.com/feeds/posts/default" htmlUrl="http://sofagospel.blogspot.com/" category="" />
+    <outline type="rss" title="Elizeu Barbosa Abreu" text="Elizeu Barbosa Abreu" xmlUrl="https://rss.app/feeds/w21jCtN2s2GTTMSw.xml" htmlUrl="https://br.pinterest.com/elizeubarbosaabreu/" category="" />
+    <outline type="rss" title="Teslando" text="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCacH6UUc9aPy9sJj2mS9urQ" htmlUrl="https://www.youtube.com/channel/UCacH6UUc9aPy9sJj2mS9urQ" category="" />
+  </body>
+</opml>
